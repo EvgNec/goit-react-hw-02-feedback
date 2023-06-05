@@ -24,6 +24,7 @@ export const ButtonOption = styled.button`
   background: transparent;
   cursor: pointer;
   transition: all 0.3s ease;
+  text-transform: capitalize;
   position: relative;
   display: inline-block;
    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
